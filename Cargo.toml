@@ -1,5 +1,5 @@
 [package]
-name = "test_scylladb7"
+name = "test_scylladb"
 version = "0.1.0"
 edition = "2021"
 
